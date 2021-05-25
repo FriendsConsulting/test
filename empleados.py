@@ -1,4 +1,5 @@
 print("---EMPLEADOS---")
 
-print("Nombre:____")
+print("Nombres:____")
+print("Apellidos:____")
 
